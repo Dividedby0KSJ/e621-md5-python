@@ -1,5 +1,8 @@
 import re
 
+Program_Version = "0.1"
+print("Running version " + Program_Version)
+
 # Makes a readable list of the lines in the md5 file
 with open("md5.txt") as file:
     md5_list = file.readlines()
