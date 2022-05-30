@@ -4,6 +4,10 @@
 
 This is so you can get the mp4 version of the WebM File hosted on e621.net.
 
+## Todo
+Check the ["Projects"](https://github.com/users/Dividedby0KSJ/projects/1) For the current todo list and In Progress items.
+
+
 ## Why
 
 lets say you have A iphone want want to watch a... wholsom video on e621.net.
