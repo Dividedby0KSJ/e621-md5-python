@@ -5,8 +5,8 @@
 This is so you can get the mp4 version of the WebM File hosted on e621.net.
 
 ## Todo
-Check the ["Projects"](https://github.com/users/Dividedby0KSJ/projects/1) For the current todo list and In Progress items.
 
+Check the ["Projects"](https://github.com/users/Dividedby0KSJ/projects/1) For the current todo list and In Progress items.
 
 ## Why
 
@@ -33,7 +33,7 @@ When complet this tool will let you batch download the mp4 version of the file f
 
 Right now the only [Hydrus](https://github.com/hydrusnetwork/hydrus) intergration is manaly batch copy the md5's and add the output urls to the [Hydrus](https://github.com/hydrusnetwork/hydrus) downloader
 
-# Setup
+## Setup
 
 make 2 text files.
 
